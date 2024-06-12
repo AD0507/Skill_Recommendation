@@ -47,7 +47,7 @@ def hybrid_recommendations(title):
     return combined_recommend
 
 # Streamlit App
-st.title('Course Recommendation System')
+st.title('Skill Recommendation System')
 
 # Select a course
 course_list = df_cleaned['Title'].unique()
