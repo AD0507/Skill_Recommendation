@@ -21,6 +21,4 @@ Please Note that this is not complete and I am in process of incorporating Deepl
 - Git
 
 
-## Access the Streamlitt App
-Open your web browser and go to the URL- https://github.com/Ireanuoluwa/Course-Recommendation-System
 
